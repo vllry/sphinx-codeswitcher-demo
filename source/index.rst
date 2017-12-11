@@ -18,3 +18,14 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+.. container:: langsnip hidden golang
+
+   x := 42
+
+
+.. container:: langsnip hidden python
+
+   x = 42

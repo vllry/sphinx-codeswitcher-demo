@@ -168,7 +168,6 @@ texinfo_documents = [
 
 
 def setup(app):
+    app.add_stylesheet("css/codeblocks.css")
     app.add_javascript("js/custom.js")
-
-
 
