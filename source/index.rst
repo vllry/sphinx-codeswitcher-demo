@@ -21,11 +21,16 @@ Indices and tables
 
 
 
-.. container:: langsnip hidden golang
+.. container:: langsnips
 
-   x := 42
+	.. container:: lang-golang
 
+	   x := 42
 
-.. container:: langsnip hidden python
+	.. container:: lang-python
 
-   x = 42
+	   x = 42
+
+.. raw:: html
+
+	<input type="button" value="Python" onclick="setLangTo('python');">
